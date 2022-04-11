@@ -1,4 +1,7 @@
 - [首页](/)
 - [发帖规范](/post)
-- [问题与解答](/problems)
+- [网站 & 群 FAQ](/website_FAQ)
+- [资源 FAQ](/resource_FAQ)
+- [其他 FAQ](/other_FAQ)
+- [相关资源下载](/download)
 - [贡献者名单](/contributor)
