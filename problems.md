@@ -70,14 +70,34 @@ QQ 群号：[1030194318](https://jq.qq.com/?_wv=1027&k=XMsIeX7U)。
 
 你可以在「[萌番组](https://bangumi.moe/)」（推荐）、「[动漫花园](https://share.dmhy.org/)」、「[末日动漫](https://share.acgnx.se/)」等网站找资源。
 
-使用搜索功能找到你想要的动漫资源，下载后上传至喵呜动漫。我们期待您的分享！（若您不知道怎么下载，请向下看）
+使用搜索功能找到你想要的动漫资源，下载后上传至喵呜动漫。我们期待您的分享！（若不知道怎么下载，请向下看）
 
-### 详解 BT 下载
+#### 看懂资源标题
 
-> 本部分只介绍下载须知
+我们从一个例子入手：`[MingY] 测不准的阿波连同学 / Aharen-san wa Hakarenai [02][1080p][CHS]`
 
-请使用正规软件下载
+这个标题的意思是「测不准的阿波连同学 第2话 简体字幕」，分辨率为 1080p ，字幕组是 MingYSub。
 
-### 详解 BT
+通常情况下，您需要关注：分辨率、字幕类型。在新番连载时下载内嵌字幕，BD 放源后下载外挂字幕（或生肉）。
 
-BT，即 BitTorrent 的缩写。
+### 简述 BT 下载
+
+> 本部分只介绍下载须知，关于 BT 的更多知识请继续向下看。
+
+请使用正规软件下载，勿使用迅雷下载。下载完成后请挂一段时间做种。
+
+> 推荐软件如下：
+> 
+> Windows 系统：BitComet、qBEE（qBittorrent-Enhanced-Edition）、qBittorrent
+>
+> Linux 系统：qBittorrent、KTorrent、t-get
+> 
+> Mac 系统：qBittorrent
+>  
+> Android 系统：Flud、tTorrent
+>
+> iOS 系统：暂无
+
+### 简述 BT
+
+BT，即 BitTorrent 的缩写，是一种对等网络（P2P）中文件分发的网络协议。BT 通过 P2P 下载的方式克服了传统下载方式的局限性，下载同一文件的人越多，下载该文件的速度越快。
